@@ -1,1 +1,1 @@
-# Bem vindo ao curso GitHub SujeitoProgamador
+# Bem vindo ao curso GitHub SujeitoProgramador
